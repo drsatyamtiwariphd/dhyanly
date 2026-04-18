@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://d22116-cmd.github.io/dhyanly/sitemap.xml
